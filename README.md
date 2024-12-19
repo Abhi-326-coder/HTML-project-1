@@ -1,2 +1,2 @@
 # HTML-project-1
-My first simple project on html
+My first simple project on HTML
